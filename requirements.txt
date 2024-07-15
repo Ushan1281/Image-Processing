@@ -100,7 +100,7 @@ pytest-timeout==2.3.1
 pytest-xdist==3.6.1
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywin32==306
+pywin32
 pywin32-ctypes==0.2.2
 QScintilla==2.14.1
 requests==2.32.3
